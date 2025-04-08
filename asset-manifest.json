@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/React-Themeswitcher/static/css/main.f6f1ef53.css",
+    "main.js": "/React-Themeswitcher/static/js/main.3c017a11.js",
+    "index.html": "/React-Themeswitcher/index.html",
+    "main.f6f1ef53.css.map": "/React-Themeswitcher/static/css/main.f6f1ef53.css.map",
+    "main.3c017a11.js.map": "/React-Themeswitcher/static/js/main.3c017a11.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f6f1ef53.css",
+    "static/js/main.3c017a11.js"
+  ]
+}
